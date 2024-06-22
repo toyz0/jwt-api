@@ -1,2 +1,2 @@
-# jwt-api
-JWT Web API
+# JWT Web API
+Simple but useable
